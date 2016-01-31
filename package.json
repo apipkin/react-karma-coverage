@@ -1,0 +1,41 @@
+{
+  "name": "react-karma-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack",
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "devDependencies": {
+    "babel-core": "^6.4.5",
+    "babel-eslint": "^4.1.6",
+    "babel-istanbul-loader": "0.0.3",
+    "babel-loader": "^6.2.1",
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-preset-stage-0": "^6.3.13",
+    "chai": "^3.5.0",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^4.0.0",
+    "eslint-loader": "^1.2.1",
+    "eslint-plugin-react": "^3.16.1",
+    "isparta-loader": "^2.0.0",
+    "karma": "^0.13.19",
+    "karma-babel-preprocessor": "^6.0.1",
+    "karma-chai": "^0.1.0",
+    "karma-cli": "^0.1.2",
+    "karma-coverage": "^0.5.3",
+    "karma-mocha": "^0.2.1",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-sourcemap-loader": "^0.3.7",
+    "karma-webpack": "^1.7.0",
+    "mocha": "^2.4.5",
+    "phantomjs-prebuilt": "^2.1.3",
+    "react": "^0.14.7",
+    "react-addons-test-utils": "^0.14.7",
+    "react-dom": "^0.14.7",
+    "webpack": "^1.12.12"
+  }
+}
